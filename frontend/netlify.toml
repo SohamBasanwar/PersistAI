@@ -1,0 +1,9 @@
+[build]
+  # Install Node deps and run your static-export
+  command = "npm install && npm run build"
+  # Expo’s export:web writes into web-build/
+  publish = "dist"
+
+[build.environment]
+  # Point at your Cloud Run API
+  API_BASE_URL = "https://persistai-backend-764388328619.us-central1.run.app/api"

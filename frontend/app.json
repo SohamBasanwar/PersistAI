@@ -21,7 +21,11 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.frontend"
+      "package": "com.anonymous.frontend",
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -29,6 +33,12 @@
     "plugins": [
       "expo-audio",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9d39f32c-428c-4c4e-9211-0009be5d2524"
+      }
+    },
+    "owner": "sohambasanwar"
   }
 }
