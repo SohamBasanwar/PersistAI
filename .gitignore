@@ -1,0 +1,7 @@
+# Sensitive frontend files
+frontend/services/firebase.ts
+frontend/config.js
+frontend/screens/ContactScreen.tsx
+
+# Entire backend folder
+backend/
