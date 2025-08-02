@@ -53,3 +53,13 @@ All of the above are stored securely in a private repo:
 cd frontend
 npm install
 npx expo start
+
+
+
+## 📄 License
+
+This project is **not open-source**.  
+All rights reserved © 2025 Soham Basanwar.  
+You must request permission before using any part of this codebase.
+
+
