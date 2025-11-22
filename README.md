@@ -33,7 +33,7 @@ PersistAI is an AI-enhanced resume builder that auto-tailors your resume to matc
 
 ---
 
-## 🔒 What’s Not Included (Private Files)
+## 🔒 What's Not Included (Private Files)
 
 This repo **excludes the following for security reasons**:
 
@@ -51,7 +51,7 @@ These files are maintained in the private repository:
 
 To test the public UI locally:
 
-```bash
+"`bash
 cd frontend
 npm install
 npx expo start
@@ -68,6 +68,8 @@ Made with ❤️ by **Soham Basanwar**
 🔗 [LinkedIn](https://linkedin.com/in/sohambasanwar)
 📧 Email: [sohamdono03@gmail.com](mailto:sohamdono03@gmail.com)
 
+> **Notice:** This website was shut down for public use due to high costs.
+
 ---
 
 ## 📄 License
@@ -75,6 +77,7 @@ Made with ❤️ by **Soham Basanwar**
 **All rights reserved © 2025 Soham Basanwar.**
 This project is **not open-source**; you **may not** use, copy, modify, publish, or distribute any part of this codebase without **explicit written permission** from the author.
 
-Please refer to the [LICENSE](LICENSE) file for full details.
+Please take a look at the [LICENSE](LICENSE) file for complete details.
 
 For permission inquiries, contact: [sohamdono03@gmail.com](mailto:sohamdono03@gmail.com)
+
