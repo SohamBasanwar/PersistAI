@@ -55,9 +55,15 @@ To test the public UI locally:
 cd frontend
 npm install
 npx expo start
-```
+`
 
 > **Note:** This version uses mock data and does not include Firebase, AI scoring, or PDF generation. It is meant for UI demonstration only.
+
+---
+
+## !!!Notice
+
+This website was shut down for public use due to high costs.
 
 ---
 
@@ -68,7 +74,6 @@ Made with ❤️ by **Soham Basanwar**
 🔗 [LinkedIn](https://linkedin.com/in/sohambasanwar)
 📧 Email: [sohamdono03@gmail.com](mailto:sohamdono03@gmail.com)
 
-> **Notice:** This website was shut down for public use due to high costs.
 
 ---
 
@@ -80,4 +85,5 @@ This project is **not open-source**; you **may not** use, copy, modify, publish,
 Please take a look at the [LICENSE](LICENSE) file for complete details.
 
 For permission inquiries, contact: [sohamdono03@gmail.com](mailto:sohamdono03@gmail.com)
+
 
